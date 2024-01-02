@@ -1,2 +1,7 @@
 li{border: 5px solid navy;}
 p{padding: 3px;}
+h2{border: 3px solid tomato;}
+#berlin{color: antiquewhite;
+border: 2px solid tomato;border-radius: 2px;
+}
+img{height: 300px;width: 250px;}
